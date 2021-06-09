@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-03-04T0
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-03-04T07:12:29.210Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-03-04T07:12:29.299Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-03-04T07:12:50.593Z
-KhuGame.exe	2021-06-09T16:19:27.747Z
+KhuGame.exe	2021-06-09T16:59:54.722Z
